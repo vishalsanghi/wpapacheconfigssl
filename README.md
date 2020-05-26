@@ -5,11 +5,11 @@ The script will help to do the apache configuration for hosting new wordpress we
 These are free SSL provided by LetsEcrypt. 
 More information here - https://letsencrypt.org/
 
-Agent used to install the certificate CERTBOI
+Agent used to install the certificate CERTBOT
 More information here - https://certbot.eff.org/
 
-Manually Configuration use my inspiration for this script
-https://onepagezen.com/free-ssl-certificate-wordpress-google-cloud-click-to-deploy/
+Manually Configure use my inspiration for this script
+Information - https://onepagezen.com/free-ssl-certificate-wordpress-google-cloud-click-to-deploy/
 
 **The script is divided into following parts and can be used as per your requirement:**
 
