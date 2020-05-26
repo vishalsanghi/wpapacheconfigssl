@@ -11,6 +11,10 @@ More information here - https://certbot.eff.org/
 Manually configure use my inspiration for this script  
 https://onepagezen.com/free-ssl-certificate-wordpress-google-cloud-click-to-deploy/
 
+Precaution: Please do not provide huge requests for specific domain it will be blocked for a week. Letsencrypt issue limited certficate as 5 in a week.  
+Please check rate limits here - https://letsencrypt.org/docs/rate-limits/  
+
+
 **The script is divided into following parts and can be used as per your requirement:**
 
 * Defining the configuration file for your requirement
