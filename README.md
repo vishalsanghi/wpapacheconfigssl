@@ -8,7 +8,7 @@ More information here - https://letsencrypt.org/
 Agent used to install the certificate CERTBOT
 More information here - https://certbot.eff.org/
 
-Manually configure use my inspiration for this script
+Manually configure use my inspiration for this script  
 https://onepagezen.com/free-ssl-certificate-wordpress-google-cloud-click-to-deploy/
 
 **The script is divided into following parts and can be used as per your requirement:**
