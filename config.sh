@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Vishal Dilip Sanghi
-# Apache configuration for Wordpress Install on a Debian/Ubuntu VPS
+# Apache configuration file for Wordpress Install on a Debian/Ubuntu VPS
 # Created on: 25th May 2020
 # Last Updated on: 25th May 2020
 
